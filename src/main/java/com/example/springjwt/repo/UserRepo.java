@@ -1,4 +1,8 @@
-﻿package com.example.springjwt.repo;
+package com.example.springjwt.repo;
 
-public interface UserRepo {
+import com.example.springjwt.domain.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepo extends JpaRepository<User, Long> {
+    User findByUsername(String username);
 }
