@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.example.springjwt.domain;
 
 
@@ -28,6 +27,3 @@ public class User {
     @ManyToMany(fetch = FetchType.EAGER)
     private Collection<Role> roles= new ArrayList<>();
 }
-=======
-package com.example.springjwt.domain;public class User {}
->>>>>>> 70eddb99d489a91d9f0fbb52be4cc3f7554fbe46
