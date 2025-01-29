@@ -1,4 +1,1 @@
-﻿package com.example.springjwt.domain;
-
-public class User {
-}
+package com.example.springjwt.domain;public class User {}

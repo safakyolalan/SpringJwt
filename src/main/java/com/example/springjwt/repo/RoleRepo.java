@@ -1,4 +1,4 @@
-﻿package com.example.springjwt.repo;
+package com.example.springjwt.repo;
 
 public interface RoleRepo {
 }

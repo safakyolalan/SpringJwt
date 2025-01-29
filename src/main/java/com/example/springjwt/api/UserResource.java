@@ -1,4 +1,4 @@
-﻿package com.example.springjwt.api;
+package com.example.springjwt.api;
 
 public class UserResource {
 }

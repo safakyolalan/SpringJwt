@@ -1,4 +1,4 @@
-﻿package com.example.springjwt.domain;
+package com.example.springjwt.domain;
 
 public class Role {
 }
